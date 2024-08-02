@@ -1,4 +1,7 @@
-# generate-subdomain-records
+# Generate Subdomains
+
+![image](https://github.com/user-attachments/assets/21dab747-9569-4b02-9fa3-9a80473b56a8)
+
 
 Bash + JS to get a list of all subdomains from AWS Route53 in a spreadsheet
 
@@ -6,7 +9,7 @@ Bash + JS to get a list of all subdomains from AWS Route53 in a spreadsheet
 Node
 AWS CLI
 
-# Steps
+## Steps
 
 1. Login to AWS via CLI
    
@@ -22,3 +25,7 @@ AWS CLI
 4. Run bash script
    
    ```./generate-all-domains.sh```
+
+## For only one domain
+
+You can use the ```generate-subdomain-data.sh``` script instead and simple change the ```DOMAIN``` variable.
