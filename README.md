@@ -1,6 +1,4 @@
-# Generate Subdomains
-
-![image](https://github.com/user-attachments/assets/21dab747-9569-4b02-9fa3-9a80473b56a8)
+# Generate Subdomains in AWS Route53 to Spreadsheet
 
 
 Bash + JS to get a list of all subdomains from AWS Route53 in a spreadsheet
