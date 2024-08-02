@@ -1,6 +1,6 @@
 # generate-subdomain-records
 
-Bash + JS to get a list of all subdomains from AWS Route53
+Bash + JS to get a list of all subdomains from AWS Route53 in a spreadsheet
 
 ## Dependencies
 Node
