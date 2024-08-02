@@ -13,6 +13,7 @@ AWS CLI
    ```chmod +x generate-all-domains.sh```
 3. Install npm and dependiencies
    ```npm init -y```
+   
    ```npm instal xlsx```
-4. Run bash script
+5. Run bash script
    ```./generate-all-domains.sh```
